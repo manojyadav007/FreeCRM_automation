@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="FreeCRM Regression">
+  
+  <listeners>
+  <listener class-name="com.crmautomation.extentReport.ExtentReporterNG" />
+  </listeners>
+  
+  	<test name="FreeCRM Regression test">
+    <classes>
+	 	<class name="com.crmautomation.testcases.HomePageTest" />
+	 	<class name="com.crmautomation.testcases.LoginPageTest" />
+      	<class name="com.crmautomation.testcases.ContactsPageTest" />
+    </classes>
+ 
+  </test>
+</suite>

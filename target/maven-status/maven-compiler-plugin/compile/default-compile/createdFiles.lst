@@ -1,0 +1,7 @@
+com/crmautomation/pages/ContactsPage.class
+com/crmautomation/pages/HomePage.class
+com/crmautomation/pages/LoginPage.class
+com/crmautomation/utils/TestUtil.class
+com/crmautomation/base/TestBase.class
+com/crmautomation/extentReport/ExtentReporterNG.class
+com/crmautomation/utils/WebEventListener.class

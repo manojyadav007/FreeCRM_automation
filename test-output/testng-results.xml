@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46826" started-at="2020-09-15T16:08:11Z" finished-at="2020-09-15T16:08:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46826" started-at="2020-09-15T16:08:11Z" finished-at="2020-09-15T16:08:58Z">
+      <class name="com.crmautomation.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="setUp" is-config="true" duration-ms="9135" started-at="2020-09-15T16:08:11Z" finished-at="2020-09-15T16:08:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="verifyPageTitleTest" duration-ms="39" started-at="2020-09-15T16:08:20Z" finished-at="2020-09-15T16:08:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="tearDown" is-config="true" duration-ms="83" started-at="2020-09-15T16:08:20Z" finished-at="2020-09-15T16:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="setUp" is-config="true" duration-ms="11028" started-at="2020-09-15T16:08:21Z" finished-at="2020-09-15T16:08:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserTest()[pri:2, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="verifyUserTest" duration-ms="2108" started-at="2020-09-15T16:08:32Z" finished-at="2020-09-15T16:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="tearDown" is-config="true" duration-ms="182" started-at="2020-09-15T16:08:34Z" finished-at="2020-09-15T16:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="setUp" is-config="true" duration-ms="13603" started-at="2020-09-15T16:08:34Z" finished-at="2020-09-15T16:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToContactsPageTest()[pri:3, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="navigateToContactsPageTest" duration-ms="10439" started-at="2020-09-15T16:08:47Z" finished-at="2020-09-15T16:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToContactsPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crmautomation.testcases.HomePageTest@23e028a9]" name="tearDown" is-config="true" duration-ms="153" started-at="2020-09-15T16:08:58Z" finished-at="2020-09-15T16:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crmautomation.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
